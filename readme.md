@@ -30,7 +30,7 @@
 
 <br>
 <p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31h7qeknr56aucza36dia2ua4iv4&count=5)">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31h7qeknr56aucza36dia2ua4iv4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true">
 </p>
 
 
