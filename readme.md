@@ -17,9 +17,9 @@
 
 - ⚡ Fun fact **I am a noob and do not know many things xd**
 
-  
+  <p align="center">
 <img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=DanyHttp">
-
+</p>
 <p align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31h7qeknr56aucza36dia2ua4iv4&count=5)">
 </p>
