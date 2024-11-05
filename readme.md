@@ -35,6 +35,3 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
 
-
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&text=DanyHttp&section=header&reversal=false&textBg=false&fontAlign=50&strokeWidth=0"></p> 
-
