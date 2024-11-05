@@ -31,7 +31,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danyhttp&show_icons=true&locale=en&layout=compact" alt="danyhttp" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danyhttp&show_icons=true&locale=en" alt="danyhttp" /></p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
 
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&text=DanyHttp&section=header&reversal=false&textBg=false&fontAlign=50&strokeWidth=0"></p> 
