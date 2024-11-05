@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm DanyHttp<img src="http://i.imgur.com/Cj4rMrS.gif" height="40" alt="Swimming Octocat" title="DanyHttp"></h1> 
+<h1 align="center">Hi <img src="http://i.imgur.com/Cj4rMrS.gif" height="40" alt="Swimming Octocat" title="DanyHttp">, I'm DanyHttp</h1> 
 <h3 align="center">A passionate backend developer from Iran</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danyhttp&label=Profile%20views&color=0e75b6&style=flat" alt="danyhttp" /> </p>
