@@ -33,6 +33,8 @@
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31h7qeknr56aucza36dia2ua4iv4&count=5)">
 </p>
 
+[[https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31h7qeknr56aucza36dia2ua4iv4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)]]
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
