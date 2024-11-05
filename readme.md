@@ -17,6 +17,14 @@
 
 - ⚡ Fun fact **I am a noob and do not know many things xd**
 
+  <p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=11147618695&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
+</p>
+
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=11147618695&count=5">
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://t.me/imdevol" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="danyhttp" height="30" width="40" /></a>
