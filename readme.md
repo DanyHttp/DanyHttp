@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danyhttp&label=Profile%20views&color=0e75b6&style=flat" alt="danyhttp" /> </p>
 
-- 🔭 I’m currently working on [Weather-app](https://github.com/DanyHttp/weather-app)
+- 🔭 I’m currently working on a **Priv8 Project**
 
 - 🌱 I’m currently learning **Django and Flutter**
 
