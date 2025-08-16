@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **graywolfali@gmail.com**
 
-- 📄 Know about my experiences [google.com](google.com)
+- 📄 Know about my experiences [google.com](https://google.com)
 
 - ⚡ Fun fact **I am a noob and do not know many things xd**
 
