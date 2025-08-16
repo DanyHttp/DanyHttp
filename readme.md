@@ -17,8 +17,7 @@
 
 - ⚡ Fun fact **I am a noob and do not know many things xd**
 
-<img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=DanyHttp">
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://t.me/imdevol" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="danyhttp" height="30" width="40" /></a>
