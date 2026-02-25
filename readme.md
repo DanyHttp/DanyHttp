@@ -78,3 +78,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DanyHttp/DanyHttp/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DanyHttp/DanyHttp/output/pacman-contribution-graph.svg">
 </picture>
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanyHttp&show_icons=true&hide_border=true&count_private=true)
