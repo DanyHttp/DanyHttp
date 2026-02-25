@@ -78,3 +78,7 @@
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanyHttp&show_icons=true&hide_border=true&count_private=true)
+
+
+
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Pranesh-2005&size_weight=0.5&count_weight=0.5)
