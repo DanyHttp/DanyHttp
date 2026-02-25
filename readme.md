@@ -18,7 +18,6 @@
 - 💬 Ask me about **Python · FastAPI · Flask · Pyrogram**
 - 📫 Reach me at **graywolfali@gmail.com**
 - 🌐 Check out my projects at **[extorm.ir](https://extorm.ir)**
-- ⚡ Fun fact: *I'm still learning — and that's totally fine!*
 
 ---
 
