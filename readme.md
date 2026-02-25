@@ -69,14 +69,6 @@
 </div>
 
 ---
-[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=pranesh-2005&theme=radical)](https://github.com/pranesh-2005/github-readme-stats-fast)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanyHttp&show_icons=true&hide_border=true&count_private=true)
 
-
-
-<a href="https://github.com/Pranesh-2005/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=Pranesh-2005" />
-</a>
-<a href="https://github.com/Pranesh-2005/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Pranesh-2005&layout=compact&langs_count=8&card_width=320" />
-</a>
+  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=DanyHttp" />
+  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=DanyHttp&layout=compact&langs_count=8&card_width=320" />
