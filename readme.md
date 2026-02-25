@@ -69,14 +69,7 @@
 </div>
 
 ---
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DanyHttp/DanyHttp/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DanyHttp/DanyHttp/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DanyHttp/DanyHttp/output/pacman-contribution-graph.svg">
-</picture>
-
-
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=pranesh-2005&theme=radical)](https://github.com/pranesh-2005/github-readme-stats-fast)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanyHttp&show_icons=true&hide_border=true&count_private=true)
 
 
