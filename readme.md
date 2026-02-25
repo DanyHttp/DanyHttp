@@ -62,9 +62,7 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DanyHttp&show_icons=true&theme=gotham" alt="DanyHttp stats" />
-</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanyHttp&hide=contribs,prs)
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=DanyHttp&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
